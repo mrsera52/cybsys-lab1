@@ -1,6 +1,6 @@
 Шелаев Серафим Ильич М8О-408Б-22  
 
-
+Задание на 3  
 Датасет https://www.kaggle.com/datasets/nadinpethiyagoda/vehicle-dataset-for-yolo  
 
 Запуск ноутбука в Google Colab
